@@ -57,13 +57,14 @@ A curated list of public [Model Context Protocol](https://modelcontextprotocol.i
 
 ## Data Analysis
 
-| Name                                 | Description                                                                         | Endpoint                                |
-|--------------------------------------|-------------------------------------------------------------------------------------|-----------------------------------------|
-| [Apify](https://mcp.apify.com)       | Web scraping and automation platform for extracting data from websites              | `https://mcp.apify.com/api/mcp`         |
-| [Meta Ads](https://pipeboard.co)     | Manage and analyze Meta (Facebook) Ads campaigns through MCP                        | `https://mcp.pipeboard.co/meta-ads-mcp` |
-| [Mixpanel](https://mcp.mixpanel.com) | Product analytics platform for tracking user interactions and behavior              | `https://mcp.mixpanel.com/mcp`          |
-| [SEOLinkMap](https://seolinkmap.com) | Statistical SEO analysis via MCP - built on open source seolinkmap/waasup framework | `https://seolinkmap.com/mcp`            |
-| [Xquik](https://xquik.com)           | X/Twitter data, automation, and workflow tools through MCP                          | `https://xquik.com/mcp`                 |
+| Name                                 | Description                                                                                                                                                                      | Endpoint                                |
+|--------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------|
+| [Apify](https://mcp.apify.com)       | Web scraping and automation platform for extracting data from websites                                                                                                           | `https://mcp.apify.com/api/mcp`         |
+| [DC Hub](https://dchub.cloud)        | DC Hub is the live data layer for data-center site selection. Its Data Center Power Index (DCPI) is a daily score of where data centers can get grid power, across 300+ markets. | `https://dchub.cloud/mcp`               |
+| [Meta Ads](https://pipeboard.co)     | Manage and analyze Meta (Facebook) Ads campaigns through MCP                                                                                                                     | `https://mcp.pipeboard.co/meta-ads-mcp` |
+| [Mixpanel](https://mcp.mixpanel.com) | Product analytics platform for tracking user interactions and behavior                                                                                                           | `https://mcp.mixpanel.com/mcp`          |
+| [SEOLinkMap](https://seolinkmap.com) | Statistical SEO analysis via MCP - built on open source seolinkmap/waasup framework                                                                                              | `https://seolinkmap.com/mcp`            |
+| [Xquik](https://xquik.com)           | X/Twitter data, automation, and workflow tools through MCP                                                                                                                       | `https://xquik.com/mcp`                 |
 
 ## Database
 
